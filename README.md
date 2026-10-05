@@ -122,3 +122,7 @@ Browser and hosting references: [Web MIDI API](https://developer.mozilla.org/en-
 Developed by [Adrián Artacho](https://muk.ac.at/studienangebot/lehrende/details/adrian-artacho.html), researcher at the Music and Arts University of the City of Vienna (MUK).
 
 Based on an idea by [Jura Margulis](https://muk.ac.at/studienangebot/lehrende/details/jura-margulis.html).
+
+---
+
+## 📝 [ToDo](https://trello.com/c/BqNWZTEZ/106-klavier)
