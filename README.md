@@ -1,4 +1,4 @@
-# [Tutor](https://muk-research.github.io/Tutor/?lesson=test&fullscreen=1)
+# [Tutor](https://muk-labs.github.io/Tutor/?lesson=test&fullscreen=1)
 
 A quiet, score-first piano practice space. A zoomable A4-proportioned score page sits on the left, with a large isometric performance cube on the right. All controls, status, and progress stay above both surfaces on a light background. A smooth, fading trace compares MIDI input with a reference lesson. All processing and storage happen in the browser. No server, account, external JavaScript dependency, or MIDI output is needed.
 
